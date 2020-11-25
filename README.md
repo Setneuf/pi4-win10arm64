@@ -4,7 +4,7 @@
 
 This is a backup image of a working Windows 10 ARM64 is a Raspberry Pi 4. It is for a 32GB mSD card (mininum) and I recomend at least an SanDisk Extreme UHS-I V30 microSDHC 32GB for this TESTING PURPOSE ONLY!
 
-![Screenshot](https://cdn.mos.cms.futurecdn.net/WifLXePD3Tk5QFwKR7UDUo-970-80.jpg)
+![Screenshot](https://i.ibb.co/jMg1cX7/125549229-379558340051436-1087247185212036840-n.jpg)
 
 #
 ## Installation
@@ -20,9 +20,9 @@ This image was created using the Windows on Raspberry tool (https://www.worproje
 
 ![Screenshot](https://i.ibb.co/Fn6TCfX/wor.jpg)
 
-After using it for a while I can say to you guys that it's very stable and the x86 emulator works very well!
+After using it for a while I can say to you guys that it's very stable and the x86 emulator works very well! In the image bellow you can see a Windows Forms app created in Visual Studio working!
 
-![Screenshot]()
+![Screenshot](https://i.ibb.co/BwxSvcH/123468020-360182455214655-664611567063342127-n.png)
 
 In the 4GB Pi4 version it only uses 3GB of RAM, but even so, it's very nice to have a desktop Windows on a Pi4.
 
