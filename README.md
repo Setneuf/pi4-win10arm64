@@ -29,6 +29,6 @@ In the 4GB Pi4 version it only uses 3GB of RAM, but even so, it's very nice to h
 #
 ## Notes
 
-I hope you enjoy the image and I repeat again, this is for TESTING PURPOSES ONLY, Microsoft does not have and oficcial Windows Arm64 for the Raspberry Pi yet and you will not be able to buy a cd-key to activate this Windows!
+I hope you enjoy the image and I repeat again, this is for TESTING PURPOSES ONLY, Microsoft does not have and official Windows 10 Arm64 for the Raspberry Pi yet and you will not be able to buy a cd-key to activate this Windows!
 
 Please make sure to share your suggestions!
