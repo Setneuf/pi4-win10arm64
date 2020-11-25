@@ -1,4 +1,4 @@
-# --- The image and screenshots will be uploaded shortly ---
+# --- The image will be uploaded shortly ---
 
 # WINDOWS 10 ARM64 for Raspberry Pi 4 2/4GB (FOR TESTING PURPOSES ONLY! NO OFFICIAL RELEASE FROM MICROSOFT)
 
