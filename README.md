@@ -11,9 +11,9 @@ THIS IMAGE IS FOR TESTING PURPOSES ONLY!
 #
 ## Installation
 
-Mega.nz link: https://mega.nz/file/MKwHBKIT#6-3phyeaB_Ox3bL1BiVy2g3vx4JR3Oer_UItsxo7Dmg
+  >> Mega.nz link: https://mega.nz/file/MKwHBKIT#6-3phyeaB_Ox3bL1BiVy2g3vx4JR3Oer_UItsxo7Dmg (i couldn't upload the image file to Github, too big...)
 
-Just download the image and restore the backup to an mSD card with HDD Raw Copy (https://hddguru.com/software/HDD-Raw-Copy-Tool/).
+Just download the image in the link above and restore the backup to an mSD card with HDD Raw Copy (https://hddguru.com/software/HDD-Raw-Copy-Tool/).
 
 After that plug your mSD card into the Pi4 and turn it on (and wait a bit for it, it's a little slow to startup...).
 
