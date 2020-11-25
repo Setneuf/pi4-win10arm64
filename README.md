@@ -1,7 +1,5 @@
-# --- The image will be uploaded shortly ---
-
 #
-# WINDOWS 10 ARM64 for Raspberry Pi 4 2GB/4GB (FOR TESTING PURPOSES ONLY! NO OFFICIAL RELEASE FROM MICROSOFT)
+# WINDOWS 10 ARM64 for Raspberry Pi 4 2GB/4GB (FOR TESTING PURPOSES ONLY! NO OFFICIAL RELEASE FROM MICROSOFT!)
 
 This is a backup image of an working Windows 10 ARM64 on a Raspberry Pi 4 2GB/4GB (The 2 shown in the image). It is for be used with a 32GB mSD card (mininum) and I recomend at least an SanDisk Extreme UHS-I V30 microSDHC 32GB to be used. 
 
@@ -12,6 +10,8 @@ THIS IMAGE IS FOR TESTING PURPOSES ONLY!
 #
 #
 ## Installation
+
+Mega.nz link: https://mega.nz/file/MKwHBKIT#6-3phyeaB_Ox3bL1BiVy2g3vx4JR3Oer_UItsxo7Dmg
 
 Just download the image and restore the backup to an mSD card with HDD Raw Copy (https://hddguru.com/software/HDD-Raw-Copy-Tool/).
 
