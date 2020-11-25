@@ -24,7 +24,7 @@ After using it for a while I can say to you guys that it's very stable and the x
 
 ![Screenshot](https://i.ibb.co/BwxSvcH/123468020-360182455214655-664611567063342127-n.png)
 
-In the 4GB Pi4 version it only uses 3GB of RAM, but even so, it's very nice to have a desktop Windows on a Pi4.
+In the 4GB Pi4 version it only uses 3GB of RAM, but even so, it's very nice to have a desktop Windows on a Pi4. The network interface is working but the sound, wifi and bluetooth aren't.
 
 #
 ## Notes
