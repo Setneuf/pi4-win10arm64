@@ -18,7 +18,7 @@ After that plug your mSD card in to the Pi4 and turn it on.
 
 This image was created using the Windows on Raspberry tool (https://www.worproject.ml/) and the WoA-Installer-RPi (https://github.com/WOA-Project/WoA-Installer-Rpi/blob/master/Docs/GettingWoA.md) and has been a optimized a bit (some services disabled, Windows Update disabled, Windows Defender disabled (The firewall is still running).
 
-![Screenshot]()
+![Screenshot](https://i.ibb.co/Fn6TCfX/wor.jpg)
 
 After using it for a while I can say to you guys that it's very stable and the x86 emulator works very well!
 
