@@ -39,7 +39,7 @@ On the 4GB Pi4 version it only uses/detects 3GB of RAM (the 2GB versions detects
 
 I hope you enjoy the image and I repeat again, this is for TESTING PURPOSES ONLY, Microsoft does not have and official Windows 10 Arm64 for the Raspberry Pi yet and you will not be able to buy a cd-key to activate this Windows!
 
-The tools used for creating this working Windows 10 Arm64 image weren't made by me, i just used the tools available on the WWW.
+The tools used for creating this working Windows 10 Arm64 image weren't made by me, i just used the tools available on the Internet.
 
 
 Please make sure to share your suggestions!
