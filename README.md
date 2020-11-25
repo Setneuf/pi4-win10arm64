@@ -4,7 +4,7 @@
 
 This is a backup image of a working Windows 10 ARM64 is a Raspberry Pi 4. It is for a 32GB mSD card (mininum) and I recomend at least an SanDisk Extreme UHS-I V30 microSDHC 32GB for this TESTING PURPOSE ONLY!
 
-![Screenshot]()
+![Screenshot](https://cdn.mos.cms.futurecdn.net/WifLXePD3Tk5QFwKR7UDUo-970-80.jpg)
 
 #
 ## Installation
