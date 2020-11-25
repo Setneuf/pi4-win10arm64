@@ -2,7 +2,7 @@
 
 # WINDOWS 10 ARM64 for Raspberry Pi 4 2/4GB (FOR TESTING PURPOSES ONLY! NO OFFICIAL RELEASE FROM MICROSOFT)
 
-This is a backup image of a working Windows 10 ARM64 is a Raspberry Pi 4. It is for a 32GB mSD card (mininum) and I recomend at least an SanDisk Extreme UHS-I V30 microSDHC 32GB for this TESTING PURPOSES ONLY!
+This is a backup image of a working Windows 10 ARM64 in a Raspberry Pi 4. It is for a 32GB mSD card (mininum) and I recomend at least an SanDisk Extreme UHS-I V30 microSDHC 32GB to be used with this OS. TESTING PURPOSES ONLY!
 
 ![Screenshot](https://i.ibb.co/jMg1cX7/125549229-379558340051436-1087247185212036840-n.jpg)
 
